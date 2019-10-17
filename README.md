@@ -1,3 +1,7 @@
+---
+description: This is the initial page.
+---
+
 # Initial page
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
